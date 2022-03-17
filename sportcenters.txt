@@ -1,0 +1,16 @@
+bukit bintang   BB
+swimming        SWM
+badminton       BMT
+football        FTB
+;
+petaling jaya   PJ
+archery         ARC
+gymnastics      GYM
+volleyball      VLB
+;
+subang jaya     SJ
+basketball      BSK
+table tennis    TBL
+cricket         CRT
+tennis          TNS
+;

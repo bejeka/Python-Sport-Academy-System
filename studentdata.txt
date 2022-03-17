@@ -1,0 +1,9 @@
+brian	brianjk	102	Brian Joseph Keyrupan	Male	17/07/2002	01234566789	brian@yahuu.com	Jakarta, Sunter
+pasha	pasha123	202	Pasha	Female	03/04/2002	01231511234	p@sha	belakang bazura
+richard	12345	302	Richard	Male	05/05/2005	0815	richard@yauu	tangerang
+ironman	thanossucks	475	Tony Stark	Male	29/05/1975	123456789	ironm@n.com	New York, Stark Tower	PJBMT31600	BBVLB21300
+abcde	abcdef	500	Abcdefg	Male	01/01/2000	189414789	abcd@.com	afafdasff	BBARC31330
+12345	54321	690	Aosdfk oajsdfi	Female	29/04/1990	10913432742	@afdjknooinwe 	aaaaaaaa
+yuiopq	yuiopq	728	Yuqiruq	Female	11/02/1928	1890741798	aysfi a@	qeryqrg 
+danil	danil123	802	Danil	Male	11/11/2002	14872317234	jahjfdh @	asfj najsn
+keyrupan	brian123	902	Brian Joseph Keyrupan	Male	17/07/2002	921576512345	brian@123.com	Color Road 2 no.5A	PJGYM31605

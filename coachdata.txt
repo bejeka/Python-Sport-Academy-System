@@ -1,0 +1,8 @@
+BBARC1.180	Brian j k	Male	17/07/1980	1233454567	@bjk.comss	jakartaa	05/01/2021	-	RM100	BBARC30900	rating:0
+SJGYM1.286	Qwert	Female	16/02/1986	1234	qwert@y	qwer ty roaf	05/01/2021	-	RM40	rating:0
+BBVLB1.393	Asfdg	Male	29/07/1993	12345678	asdfg@yhu.com	asdfg road	05/01/2019	-	RM68	BBVLB21300	rating:5	mantabbb
+PJBMT1.487	Richard	Male	11/11/1987	0182301283	@asdf najsn	a sdnfujndf n	05/01/2021	-	RM60	PJBMT11600	PJBMT31600	rating:8	ok lorrr	aasdfadf	hohoo
+BBARC2.500	Bryan	Male	23/08/1900	174209178492	hjk@.c	hjkhjkroad	06/01/2021	-	RM80	BBARC31330	rating:0
+BBBSK1.602	Danil	Male	11/11/2002	13287123	asfdjk@	asjdfhjash	01/01/2021	-	RM100	rating:0
+SJTNS1.772	Nick	Male	23/12/1972	123456654328	nick@123.com	jakarta	20/01/2021	-	RM80	rating:0
+PJGYM2.876	Hailee Jackson	Female	07/04/1976	098172361235	hailee@yahu.com	5th avenue, Lombard street	20/01/2021	-	RM50	PJGYM31605	rating:4	I like how the coach teaches
